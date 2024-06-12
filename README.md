@@ -1,4 +1,4 @@
-# Dashboard Sistem Informasi Pertanian Indonesia Using Shiny R
+# Dashboard Sistem Informasi Pertanian Indonesia Using R Shiny
 Proyek ini bertujuan untuk membuat dashboard sistem informasi pertanian Indonesia menggunakan Shiny R. Dashboard ini menyediakan data pertanian dan ternak di seluruh provinsi Indonesia pada tahun 2021 dan 2022. Data yang digunakan dalam dashboard ini berasal dari Badan Pusat Statistik (BPS) dan Kementerian Pertanian. Anda dapat mengakses dashboard melalui link berikut:  [Dashboard Sistem Informasi Pertanian](https://daniswaraap.shinyapps.io/SIpertanian/).
 
 ## Deskripsi Proyek
